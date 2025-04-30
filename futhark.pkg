@@ -1,4 +1,4 @@
-package lib/github.com/leonardschneider/futhark-option
+package github.com/leonardschneider/futhark-option
 
 require {
 }
